@@ -1,0 +1,14 @@
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\obj\Debug\net9.0\azad akdeniz vs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\obj\Debug\net9.0\azad akdeniz vs.AssemblyInfoInputs.cache
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\obj\Debug\net9.0\azad akdeniz vs.AssemblyInfo.cs
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\obj\Debug\net9.0\azad akdeniz vs.csproj.CoreCompileInputs.cache
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\bin\Debug\net9.0\azad akdeniz vs.exe
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\bin\Debug\net9.0\azad akdeniz vs.deps.json
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\bin\Debug\net9.0\azad akdeniz vs.runtimeconfig.json
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\bin\Debug\net9.0\azad akdeniz vs.dll
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\bin\Debug\net9.0\azad akdeniz vs.pdb
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\obj\Debug\net9.0\azad akdeniz vs.dll
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\obj\Debug\net9.0\refint\azad akdeniz vs.dll
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\obj\Debug\net9.0\azad akdeniz vs.pdb
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\obj\Debug\net9.0\azad akdeniz vs.genruntimeconfig.cache
+C:\Users\ozpol\OneDrive\Masaüstü\azad akdeniz vs\obj\Debug\net9.0\ref\azad akdeniz vs.dll
